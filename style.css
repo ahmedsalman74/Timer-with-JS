@@ -1,0 +1,79 @@
+/*FONTS:
+  font-family: 'Merriweather', serif;
+  font-family: 'Montez', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Bilbo', cursive; 
+  font-family: 'Sacramento', cursive;*/
+/*COLORS:
+   #E8F6EF, #E99497, #FFD8CC, #DBE6FD, #F5E8C7, #F4DFD0, #F1ECC3, #FFBBCC, #261C2C ,#373A40, #082032,*/
+ 
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+  } 
+
+
+.pDiv{
+  width:100%;
+  justify-content: center;
+  text-align: center;
+}
+.p1{
+
+  width: 25%;
+  padding: 18px 0;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 15px 23px 15px 23px;
+  border-radius: 8px;
+  font-weight: bold;
+  background: #eeeeee;
+  position: relative;
+  overflow: hidden;
+}
+
+.p2{
+margin: 40px 23px 10px 20px;
+color: #c6d0ce;
+}
+
+.input1{
+  width: 220px;
+  border-radius: 15px;
+  margin: 5px 0px 0px 15px;
+  padding: 10px 5px 5px 10px;
+
+}
+.input2{
+  width: 220px;
+  border-radius: 15px;
+  margin: 5px 2px 0px 0px;
+  padding: 10px 5px 5px 10px;
+
+}
+.span{
+  color: #eef0ef;
+
+}
+.rset{
+  background: #f30f0f;
+
+}
+button{
+  width: 25%;
+  padding: 18px 0;
+  color: rgb(253, 249, 249);
+  text-align: center;
+  margin: 20px 0px 8px 8px;
+  border-radius: 7px;
+  font-weight: bold;
+  border: 3px;
+  background: #3f64f8;
+  cursor: pointer;
+  color: rgb(255, 245, 245);
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  overflow: hidden;
+
+}
